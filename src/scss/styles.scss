@@ -1,0 +1,11 @@
+body{
+  background-color: yellowgreen;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 600px;
+  .btn-info{
+    min-height: 10%;
+    width: 25%;
+  }
+}
